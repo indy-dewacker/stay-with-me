@@ -42,5 +42,5 @@ Rebind the keys under Options → Controls → Key Binds → *Chain of Fun*.
 
 ## Building
 
-GitHub Actions builds the jar on every push (see the Actions tab → latest run → artifact `chain-of-fun-jar`).
+Grab the jar from the **Releases** page (the `latest` release updates on every push), or from the Actions tab → latest run → artifact `chain-of-fun-jar`.
 Locally: install Java 21 and Gradle 8.10+, then run `gradle build`. The jar lands in `build/libs/`.
