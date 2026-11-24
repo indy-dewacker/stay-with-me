@@ -1,0 +1,24 @@
+{
+  "item.chainoffun.chain_of_fun": "Chain of Fun",
+  "item.chainoffun.chain_of_fun.desc1": "Right-click a friend to chain yourselves together.",
+  "item.chainoffun.chain_of_fun.desc2": "To break free, both sneak + right-click each other.",
+
+  "key.categories.chainoffun": "Chain of Fun",
+  "key.chainoffun.reel": "Reel rope (hold + scroll)",
+  "key.chainoffun.yank": "Yank partner",
+
+  "msg.chainoffun.linked": "You are now chained to %s. Have fun!",
+  "msg.chainoffun.already_linked_self": "You're already chained to someone.",
+  "msg.chainoffun.already_linked_target": "%s is already chained to someone else.",
+  "msg.chainoffun.already_linked_pair": "You're already chained to %s. Sneak + right-click each other to unchain.",
+  "msg.chainoffun.unlink_sent": "Unchain request sent to %s.",
+  "msg.chainoffun.unlink_request": "%s wants to unchain. Sneak + right-click them within %s seconds to agree.",
+  "msg.chainoffun.unlinked": "You and %s are no longer chained.",
+  "msg.chainoffun.reel_denied": "Only a sneaking player on solid ground can reel the rope.",
+  "msg.chainoffun.rope_length": "Rope: %s blocks",
+  "msg.chainoffun.yank_cooldown": "Yank is recharging...",
+  "msg.chainoffun.yank_no_partner": "Your partner isn't nearby.",
+  "msg.chainoffun.portal_blocked": "Portals only work together. Get %s into the portal with you.",
+  "msg.chainoffun.portal_blocked_offline": "Your partner is offline. You can't use portals alone.",
+  "msg.chainoffun.pulled_to_partner": "The chain pulled you to %s."
+}

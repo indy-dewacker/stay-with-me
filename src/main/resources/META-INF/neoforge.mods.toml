@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="chainoffun"
+version="1.0.0"
+displayName="Chain of Fun"
+authors="You & your friend"
+description='''
+Chain yourself to a friend. Swing off cliffs, reel each other up, yank each other around.
+Nobody wanders off alone.
+'''
+
+[[accessTransformers]]
+file="META-INF/accesstransformer.cfg"
+
+[[dependencies.chainoffun]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.chainoffun]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
